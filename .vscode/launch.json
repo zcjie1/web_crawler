@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "web_crawler",
+            "type": "debugpy",
+            "request": "launch",
+            "env": {"PYTHONPATH":"${workspaceRoot}"},
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ],
+    "compounds": []
+}
