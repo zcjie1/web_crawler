@@ -6,6 +6,7 @@
     "python.envFile": "${workspaceFolder}/.env",
     "python.analysis.extraPaths": [
         "{workspaceFolder}/src"
-    ]
+    ],
+    "svg.preview.background": "editor"
     
 }
